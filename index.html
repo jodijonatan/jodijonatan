@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JoWebb</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            animation: fadeIn 1.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            animation: slideUp 1s ease-out;
+        }
+
+        @keyframes slideUp {
+            0% {
+                transform: translateY(30px);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #ff6b6b;
+            animation: bounceIn 1s ease-out;
+        }
+
+        @keyframes bounceIn {
+            0% {
+                transform: scale(0);
+            }
+            50% {
+                transform: scale(1.2);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin: 10px 0;
+        }
+
+        button {
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1rem;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: transform 0.3s, background 0.3s;
+            margin: 5px;
+        }
+
+        button:hover {
+            transform: scale(1.1);
+            background: #ff3b3b;
+        }
+
+        .sparkle {
+            position: absolute;
+            width: 5px;
+            height: 5px;
+            background: yellow;
+            border-radius: 50%;
+            animation: sparkle 1.5s infinite;
+        }
+
+        @keyframes sparkle {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+            50% {
+                transform: scale(1.5);
+                opacity: 0.5;
+            }
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .image-container {
+            margin-top: 20px;
+            animation: fadeIn 2s ease-out;
+        }
+
+        .image-container img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            border: 5px solid #ff6b6b;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            transition: transform 0.5s;
+        }
+
+        .image-container img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Maaf ya, Flora Sayang ❤️</h1>
+        <p>Sayang, aku beneran minta maaf kalo aku ga pernah sesuai ekspektasi kamu.</p>
+        <p>Aku juga minta maaf kalo aku ga pernah ngertiin kamu.</p>
+        <p>Tapi aku janji, aku bakal berusaha jadi yang terbaik buat kamu</p>
+        <p>Karna kamu satu satu nya buat aku, </p>
+        
+        <div class="image-container">
+            <img src="floraaa.jpeg" alt="Foto Pasangan">
+        </div>
+
+        <button id="forgiveButton">Aku Maafin Kamu</button>
+        <button id="notForgiveButton">Aku Belum Bisa Maafin</button>
+    </div>
+
+    <script>
+        const forgiveButton = document.getElementById('forgiveButton');
+        const notForgiveButton = document.getElementById('notForgiveButton');
+
+        function createSparkle() {
+            const sparkle = document.createElement('div');
+            sparkle.className = 'sparkle';
+            sparkle.style.top = `${Math.random() * window.innerHeight}px`;
+            sparkle.style.left = `${Math.random() * window.innerWidth}px`;
+            document.body.appendChild(sparkle);
+            setTimeout(() => sparkle.remove(), 1500);
+        }
+
+        forgiveButton.addEventListener('click', () => {
+            setInterval(createSparkle, 200);
+            setTimeout(() => {
+                alert('Yay! Makasih udah maafin aku, Sayang! ❤️❤️❤️');
+            }, 3000);
+        });
+
+        notForgiveButton.addEventListener('mouseover', () => {
+            const randomX = Math.random() * (window.innerWidth - notForgiveButton.offsetWidth);
+            const randomY = Math.random() * (window.innerHeight - notForgiveButton.offsetHeight);
+            notForgiveButton.style.position = 'absolute';
+            notForgiveButton.style.left = `${randomX}px`;
+            notForgiveButton.style.top = `${randomY}px`;
+        });
+    </script>
+</body>
+</html>
