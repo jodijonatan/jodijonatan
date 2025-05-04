@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/CHvjYdS2BWaYg/giphy.gif?cid=ecf05e47i5tksf3neuld7xi4fgn42nea19ug3yh7b0tr2k0x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" style="max-width: 100%; display: block; margin-right: 0 auto;" />
+  <img src="https://media.giphy.com/media/CHvjYdS2BWaYg/giphy.gif?cid=ecf05e47i5tksf3neuld7xi4fgn42nea19ug3yh7b0tr2k0x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" style="width:2920px ; max-width: 100%; display: block; margin-right: 0 auto;" />
 </p>
 
 <p align="center">
