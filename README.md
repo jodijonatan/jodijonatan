@@ -1,4 +1,4 @@
-## HEII!! I'm Jodi Jonatan
+## Hai, I'm Jodi Jonatan
 
 <!--
 **jodijonatan/jodijonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![gifi](https://media.giphy.com/media/tbyjrIX9NlZ8k/giphy.gif?cid=ecf05e475wpsgsruar9xv0e9gkqbugd8xg4fhuwtg7b404uv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
