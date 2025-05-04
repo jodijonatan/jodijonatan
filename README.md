@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/CHvjYdS2BWaYg/giphy.gif?cid=ecf05e47i5tksf3neuld7xi4fgn42nea19ug3yh7b0tr2k0x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" style="max-width: 100%; display: block; margin: 0 auto;" />
+  <img src="https://media.giphy.com/media/CHvjYdS2BWaYg/giphy.gif?cid=ecf05e47i5tksf3neuld7xi4fgn42nea19ug3yh7b0tr2k0x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" style="max-width: 100%; display: block; margin-right: 0 auto;" />
 </p>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
