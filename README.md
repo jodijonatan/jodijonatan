@@ -17,8 +17,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgydnpjMGV4Z2h1ZTlzM2owaGgzcjFsbG13Z2QxY3Z6d2NscmpxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkCgDZHywXa6Y/giphy.gif" alt="GIF" style="width:620px ; max-width: 100%; display: block; margin-right: 0 auto;" />
 </p>
 
-## Hello World!!
-
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
