@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jodi Jonatan!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgydnpjMGV4Z2h1ZTlzM2owaGgzcjFsbG13Z2QxY3Z6d2NscmpxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkCgDZHywXa6Y/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5lZGp5bHF2NmFqdng1ZHMzYjk3czJ4Y3AyeGlmZzgyNGFzaWpoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" alt="Coding GIF" width="600" />
 </p>
 
 ## 🚀 About Me
@@ -9,7 +9,7 @@
 I am a **Fullstack Developer** passionate about building robust web applications. I love bridging the gap between elegant backend logic and responsive frontend design.
 
 - 🔭 **Current Focus:** Developing scalable web systems with Laravel and React.
-- 🌱 **Learning:** Exploring Cloud Computing and DevOps (Docker/Kubernetes).
+- 🌱 **Learning:** Expanding skills into mobile development using React Native.
 - 💬 **Ask me about:** PHP, Javascript, and UI Frameworks.
 - 📫 **Contact:** jodijonatann@gmail.com
 
