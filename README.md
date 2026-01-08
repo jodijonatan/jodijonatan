@@ -1,39 +1,43 @@
-<div align="left" style="width: 100%; max-width: 900px;">
-  
-  <div style="margin-bottom: 20px;">
-    
-  ```javascript
-const misterD = {
-pronouns  : "He" | "Him",
-role      : "Full Stack Web & AI Developer",
-code      : ["JavaScript", "PHP", "Python", "Java"],
-ml        : ["TensorFlow", "scikit-learn"],
-databases : ["MySQL", "MariaDB"],
-devOps    : ["Docker", "GitHub Actions"],
-design    : ["Figma", "Canva", "Lottie"]
-},
-```
-<div align="left" style="width: 100%; max-width: 900px;">
-  
-  <div style="margin-bottom: 8px; border-radius: 8px; overflow: hidden;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodijonatan&bg_color=1F2430&color=F4CC7C&line=F4CC7C&point=ffffff&area=true&hide_border=true&hide_data=true" style="width: 100%; height: auto; display: block;" />
-  </div>
+# 👋 Hello, I'm Jodi Jonatan!
 
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="25%" style="padding-right: 4px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodijonatan&theme=ayu_mirage&utcOffset=8" width="100%" />
-      </td>
-      <td width="25%" style="padding-right: 4px; padding-left: 4px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodijonatan&theme=ayu_mirage" width="100%" />
-      </td>
-      <td width="25%" style="padding-right: 4px; padding-left: 4px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jodijonatan&theme=ayu_mirage" width="100%" />
-      </td>
-      <td width="25%" style="padding-left: 4px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodijonatan&theme=ayu_mirage" width="100%" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZjcnN6ODFnZHI5NmJqZWhzZGdvb3kyZzk5ZXEwaHk0N3VpM2FncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zI6H8qp3eSgqLECZFo/giphy.gif" alt="Coding GIF" width="600" />
+</p>
 
-</div>
+## 🚀 About Me
+
+I am a **Fullstack Developer** passionate about building robust web applications. I love bridging the gap between elegant backend logic and responsive frontend design.
+
+- 🔭 **Current Focus:** Developing scalable web systems with Laravel and React.
+- 🌱 **Learning:** Expanding skills into mobile development using React Native.
+- 💬 **Ask me about:** PHP, Javascript, and UI Frameworks.
+- 📫 **Contact:** jodijonatann@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Core
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jodijonatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
+<a href="https://instagram.com/jodijonatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
