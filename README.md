@@ -34,8 +34,8 @@ I am a **Fullstack Developer** passionate about building robust web applications
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jodijonatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jodi's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodijonatan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jodijonatan&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodijonatan&layout=compact&theme=radical" />
 </p>
 
 ---
