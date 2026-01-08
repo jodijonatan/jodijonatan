@@ -34,7 +34,8 @@ I am a **Fullstack Developer** passionate about building robust web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jodijonatan&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jodijonatan&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jodijonatan&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" />
 </p>
 
 ---
