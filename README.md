@@ -1,23 +1,52 @@
-<!--
-**jodijonatan/jodijonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hello, I'm Jodi Jonatan!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgydnpjMGV4Z2h1ZTlzM2owaGgzcjFsbG13Z2QxY3Z6d2NscmpxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkCgDZHywXa6Y/giphy.gif" alt="GIF" style="width:620px ; max-width: 100%; display: block; margin-right: 0 auto;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgydnpjMGV4Z2h1ZTlzM2owaGgzcjFsbG13Z2QxY3Z6d2NscmpxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkCgDZHywXa6Y/giphy.gif" alt="Coding GIF" width="600" />
+</p>
+
+## 🚀 About Me
+
+I am a **Fullstack Developer** passionate about building robust web applications. I love bridging the gap between elegant backend logic and responsive frontend design.
+
+- 🔭 **Current Focus:** Developing scalable web systems with Laravel and React.
+- 🌱 **Learning:** Exploring Cloud Computing and DevOps (Docker/Kubernetes).
+- 💬 **Ask me about:** PHP, Javascript, and UI Frameworks.
+- 📫 **Contact:** [Your Email / LinkedIn Link]
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Core
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jodijonatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jodi's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodijonatan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
