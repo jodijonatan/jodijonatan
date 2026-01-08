@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jodi Jonatan!
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZjcnN6ODFnZHI5NmJqZWhzZGdvb3kyZzk5ZXEwaHk0N3VpM2FncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zI6H8qp3eSgqLECZFo/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgydnpjMGV4Z2h1ZTlzM2owaGgzcjFsbG13Z2QxY3Z6d2NscmpxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkCgDZHywXa6Y/giphy.gif" alt="Coding GIF" width="600" />
 </p>
 
 ## 🚀 About Me
