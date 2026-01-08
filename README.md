@@ -11,7 +11,7 @@ I am a **Fullstack Developer** passionate about building robust web applications
 - 🔭 **Current Focus:** Developing scalable web systems with Laravel and React.
 - 🌱 **Learning:** Exploring Cloud Computing and DevOps (Docker/Kubernetes).
 - 💬 **Ask me about:** PHP, Javascript, and UI Frameworks.
-- 📫 **Contact:** [Your Email / LinkedIn Link]
+- 📫 **Contact:** jodijonatann@gmail.com
 
 ---
 
@@ -31,20 +31,11 @@ I am a **Fullstack Developer** passionate about building robust web applications
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jodijonatan&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodijonatan&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jodijonatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
+<a href="https://instagram.com/jodijonatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jodi Jonatan" height="30" width="40" /></a>
 </p>
 
 <p align="center">
